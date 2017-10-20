@@ -1,8 +1,8 @@
 import ChatBubble3Add from '../diagrams/chat-bubble3-addition.xml';
 
 export default {
-  title: 'Bubble 4.5',
-  description: 'Hier een beschijving, wat leuk zeg!',
+  title: 'Kennisgeving informatiedelig',
+  description: 'Het systeem laat de gebruiker weten waarmee dezen zojuist akkoord is gegaan. Hiermee is het voor de gebruiker duidelijk wat er met persoonlijke gegevens gebeurt.',
   diagram: ChatBubble3Add,
   width: 500,
   height: 600

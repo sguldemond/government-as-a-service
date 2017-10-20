@@ -8,8 +8,8 @@ import ChatBubble5 from './chat-bubble5'
 import ChatWriteBubble from './chat-write-bubble'
 
 export default {
-  title: 'AI chat bot',
-  description: 'This is an example of something, hello Ewa!',
+  title: 'Chat bot',
+  description: 'Een chat bot is een van de mogelijke implementaties van open data als service. Gebruikers kunnen vragen stellen aan de bot om er achter te komen of hun situatie m.b.t. hun relatie met overheidsinstellingen verandert.',
   diagram: ChatHeader,
   width: 500,
   height: 600,

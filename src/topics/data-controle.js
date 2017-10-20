@@ -6,7 +6,7 @@ import DataResponse from './data-response'
 
 export default {
   title: 'Controle',
-  description: 'This is an example of something, hello Ewa!',
+  description: 'Controle op de persoonlijke gegevens is een belangrijk aspect bij het vertrouwen in een systeem. Het moet zeer eenvoudig zijn om aan te geven welke gegevens de gebruiker wel en niet wil delen.',
   diagram: ControleHeader,
   width: 600,
   height: 1000,

@@ -2,7 +2,7 @@ import DataResponse from '../diagrams/data-response.xml';
 
 export default {
   title: 'Reactie',
-  description: 'Hier een beschijving, wat leuk zeg!',
+  description: 'Het is aan de gebruiker om toestemming te geven om gegevens inzichtelijk te maken.',
   diagram: DataResponse,
   width: 500,
   height: 600
