@@ -1,10 +1,12 @@
-import BackEndTopic from './topics/backend';
-import RelayTopic from './topics/relay';
-import OpenOverheidTopic from './topics/openoverheid'
-import ServiceOverheidChat from './topics/serviceoverheidchat'
+import ChatBot from './topics/chat-bot'
+import Timeline from './topics/timeline'
+import BaseTopic from './topics/base-topic'
+
 
 export default [
-  ServiceOverheidChat
+  BaseTopic
+  //ChatBot
+  //Timeline
   //OpenOverheidTopic
   //RelayTopic
   //BackEndTopic

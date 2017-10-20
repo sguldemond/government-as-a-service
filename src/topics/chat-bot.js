@@ -9,7 +9,7 @@ import ChatWriteBubble from './chat-write-bubble'
 
 export default {
   title: 'AI chat bot',
-  description: 'Hier een beschijving, wat leuk zeg!',
+  description: 'This is an example of something, hello Ewa!',
   diagram: ChatHeader,
   width: 500,
   height: 600,
