@@ -2,7 +2,7 @@
   "name": "service-overheid",
   "version": "0.1",
   "description": "Toelichting van concept 'open data als service'. Onderdeel van Fontys minor Future Media Lab",
-  "homepage": "https://github.com/stan-is-laus/stan-is-laus.github.io",
+  "homepage": "https://sguldemond.github.com",
   "scripts": {
     "start": "node server.js",
     "lint": "eslint src",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stan-is-laus/stan-is-laus.github.io"
+    "url": "https://github.com/sguldemond/sguldemond.github.io"
   },
   "keywords": [
     "react",
