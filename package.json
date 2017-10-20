@@ -1,7 +1,8 @@
 {
-  "name": "relay-visual-learners",
-  "version": "1.0.1",
-  "description": "An interactive diagram to help explain Facebook’s Relay framework for the more visually minded, written in React.",
+  "name": "service-overheid",
+  "version": "0.1",
+  "description": "Toelichting van concept 'open data als service'. Onderdeel van Fontys minor Future Media Lab",
+  "homepage": "https://github.com/stan-is-laus/stan-is-laus.github.io",
   "scripts": {
     "start": "node server.js",
     "lint": "eslint src",
@@ -9,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sgwilym/relay-visual-learners"
+    "url": "https://github.com/stan-is-laus/stan-is-laus.github.io"
   },
   "keywords": [
     "react",
@@ -17,8 +18,7 @@
     "relay",
     "diagram"
   ],
-  "author": "Sam Gwilym <gwilym@me.com> (http://gwil.co)",
-  "license": "MIT",
+  "author": "Stan Guldemond",
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
     "babel-core": "^5.4.7",

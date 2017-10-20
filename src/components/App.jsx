@@ -95,7 +95,7 @@ export default class App extends Component {
         </div>
         <ul className={styles.glossary}>
           <div className={styles.intro}>
-            <h1>Open data van de overheid als dienst</h1>
+            <h1>Open data als service</h1>
             <p><i>“De overheid beschikt over veel algemene, openbare informatie. Deze data worden goed vindbaar en toegankelijk gemaakt, in de vorm van open data.”</i></p>
             <p>- Regeerakkoord 2017 - 2021</p>
             <p>Door het vergaren van zo veel mogelijke persoonlijke informatie weten o.a. Facebook en Google ons verzoek naar informatie zo persoonlijk mogelijk in te vullen. Dit principe kan ook op de open data van de overheid worden toegepast. Hierdoor wordt alle open data binnen de overheid niet enkel een bron waar een verzoek op kan worden gedaan, maar onstaat er een situatie waar in de overheid de data als service aanbied.</p>
