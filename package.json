@@ -1,6 +1,6 @@
 {
   "name": "service-overheid",
-  "version": "0.1",
+  "version": "1.0.1",
   "description": "Toelichting van concept 'open data als service'. Onderdeel van Fontys minor Future Media Lab",
   "homepage": "https://sguldemond.github.com",
   "scripts": {
