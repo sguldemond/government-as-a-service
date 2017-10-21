@@ -137,21 +137,26 @@
 <text transform="matrix(1 0 0 1 430.0011 214.4306)" fill="#FFFFFF" font-family="'Ubuntu-Bold'" font-size="24">€200,- huurtoeslag</text>
 <text transform="matrix(1 0 0 1 430.0011 272.0306)" fill="#FFFFFF" font-family="'Ubuntu-Light'" font-size="24">Klik hier om je huurtoeslag </text>
 <text transform="matrix(1 0 0 1 430.0011 300.8306)" fill="#FFFFFF" font-family="'Ubuntu-Light'" font-size="24">aan te vragen.</text>
-<rect x="404.8" y="22" fill="none" width="359.5" height="28"/>
 <text transform="matrix(1 0 0 1 531.1393 42.9751)" fill="#FFFFFF" font-family="'Ubuntu-Bold'" font-size="27.0303">timeline</text>
 <rect x="424" y="246.9" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="320" height="63.2"/>
 <text transform="matrix(1 0 0 1 651.0957 343.2232)" fill="#4D4D4D" font-family="'Ubuntu-Bold'" font-size="15">1 dag geleden</text>
-<path fill="#B3B3B3" d="M752.4,526.9H641c-6.6,0-12-5.4-12-12v-77.3c0-6.6,5.4-12,12-12h111.4c6.6,0,12,5.4,12,12v77.3
-	C764.4,521.5,759,526.9,752.4,526.9z"/>
+<path fill="#E6E6E6" d="M708.3,569.6h-84.4c-6.6,0-12-5.4-12-12v-57.1c0-6.6,5.4-12,12-12h84.4c6.6,0,12,5.4,12,12v57.1
+	C720.3,564.2,714.9,569.6,708.3,569.6z"/>
 <g>
-	<path fill="#B3B3B3" d="M696.7,394.9c22.6,0,41,18.4,41,41s-18.4,41-41,41s-41-18.4-41-41S674.1,394.9,696.7,394.9 M696.7,383.9
-		c-28.7,0-52,23.3-52,52s23.3,52,52,52s52-23.3,52-52S725.4,383.9,696.7,383.9L696.7,383.9z"/>
+	<path fill="#E6E6E6" d="M666.1,466.2c16.9,0,30.6,13.7,30.6,30.6c0,16.9-13.7,30.6-30.6,30.6c-16.9,0-30.6-13.7-30.6-30.6
+		C635.5,479.9,649.2,466.2,666.1,466.2 M666.1,455.2c-23,0-41.6,18.6-41.6,41.6s18.6,41.6,41.6,41.6s41.6-18.6,41.6-41.6
+		S689.1,455.2,666.1,455.2L666.1,455.2z"/>
 </g>
-<text transform="matrix(1 0 0 1 641.1505 474.0023)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Ubuntu-Bold'" font-size="19">persoonlijke</tspan><tspan x="13.2" y="22.8" fill="#FFFFFF" font-family="'Ubuntu-Bold'" font-size="19">gegevens</tspan></text>
-<rect x="404.8" y="437.8" fill="#B3B3B3" width="160.5" height="26"/>
-<polygon fill="#B3B3B3" points="562.3,426.1 596.8,450.8 562.3,475.5 "/>
-<rect x="436.3" y="491.6" fill="#B3B3B3" width="160.5" height="26"/>
-<polygon fill="#B3B3B3" points="439.3,529.3 404.8,504.6 439.3,479.9 "/>
-<text transform="matrix(1 0 0 1 465.6955 456.9005)" fill="#FFFFFF" font-family="'Ubuntu-Bold'" font-size="19">verzoek</text>
-<text transform="matrix(1 0 0 1 469.9711 510.8001)" fill="#FFFFFF" font-family="'Ubuntu-Bold'" font-size="19">reactie</text>
+<text transform="matrix(1 0 0 1 621.6309 527.3038)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Ubuntu-Bold'" font-size="15.2106">persoonlijke</tspan><tspan x="10.6" y="18.3" fill="#FFFFFF" font-family="'Ubuntu-Bold'" font-size="15.2106">gegevens</tspan></text>
+<rect x="432.4" y="498.3" fill="#E6E6E6" width="128.5" height="20.8"/>
+<polygon fill="#E6E6E6" points="558.5,488.9 586.1,508.7 558.5,528.5 "/>
+<rect x="457.6" y="541.4" fill="#E6E6E6" width="128.5" height="20.8"/>
+<polygon fill="#E6E6E6" points="460,571.6 432.4,551.8 460,532 "/>
+<text transform="matrix(1 0 0 1 481.1701 513.6124)" fill="#FFFFFF" font-family="'Ubuntu-Bold'" font-size="15.2106">verzoek</text>
+<text transform="matrix(1 0 0 1 484.5929 556.7627)" fill="#FFFFFF" font-family="'Ubuntu-Bold'" font-size="15.2106">reactie</text>
+<path fill="#B3B3B3" d="M764.8,432.6v-36.1c0-6.6-5.4-12-12-12H416.4c-6.6,0-12,5.4-12,12v36.1C404.4,432.6,764.8,432.6,764.8,432.6
+	z"/>
+<path fill="none" stroke="#B3B3B3" stroke-miterlimit="10" d="M764.4,432.5v149.8c0,6.6-5.4,12-12,12H416.8c-6.6,0-12-5.4-12-12
+	V432.5"/>
+<text transform="matrix(1 0 0 1 531.1393 417.9251)" fill="#FFFFFF" font-family="'Ubuntu-Bold'" font-size="27.0303">controle</text>
 </svg>
