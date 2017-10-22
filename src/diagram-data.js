@@ -3,5 +3,5 @@ import BlockChain from './topics/blockchain'
 
 export default [
   BaseTopic,
-  BlockChain
+  //BlockChain
 ];
