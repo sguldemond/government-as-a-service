@@ -66,7 +66,7 @@ export default class App extends Component {
     const makeDiagram = (topic) => {
       return (
         <svg key={topic.title} width={topic.width} height={topic.height} viewBox={`0 0 ${topic.width} ${topic.height}`}>
-          <Diagram topic={topic} />
+            <Diagram topic={topic} />
         </svg>
       );
     }
@@ -106,7 +106,7 @@ export default class App extends Component {
           </div>
           { topicsWithExtras.map(makeTopic) }
         </ul>
-        <div className={styles.credit}>Concept & realisatie door <a href="https://www.linkedin.com/in/stan-guldemond-56291b120/">Stan Guldemond</a> (<a href="https://github.com/sguldemond/sguldemond.github.io">GitHub</a>) // <a href="http://futuremedialab.nl/">Future Media Lab</a>, Eindhoven </div>
+        <div className={styles.credit}>Concept & realisatie door <a href="https://www.linkedin.com/in/stan-guldemond-56291b120/">Stan Guldemond</a> (<a href="https://github.com/sguldemond/sguldemond.github.io">GitHub</a>) // <a href="http://futuremedialab.nl/">Future Media Lab</a>, Eindhoven 2017 </div>
       </div>
     );
   }
