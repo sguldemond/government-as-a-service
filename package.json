@@ -2,7 +2,7 @@
   "name": "service-overheid",
   "version": "1.0.1",
   "description": "Toelichting van concept 'open data als service'. Onderdeel van Fontys minor Future Media Lab",
-  "homepage": "https://sguldemond.github.com",
+  "homepage": "https://sguldemond.github.com/",
   "scripts": {
     "start": "node server.js",
     "lint": "eslint src",
@@ -27,6 +27,7 @@
     "babel-runtime": "^5.8.20",
     "css-loader": "^0.16.0",
     "eslint-plugin-react": "^2.3.0",
+    "gh-pages": "^1.1.0",
     "node-sass": "^3.2.0",
     "postcss-loader": "^0.5.1",
     "react-hot-loader": "^1.2.7",

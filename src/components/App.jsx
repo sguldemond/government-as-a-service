@@ -99,7 +99,7 @@ export default class App extends Component {
             <p><i>“De overheid beschikt over veel algemene, openbare informatie. Deze data worden goed vindbaar en toegankelijk gemaakt, in de vorm van open data.”</i></p>
             <p>- Regeerakkoord 2017 - 2021</p>
             <p>Door het vergaren van zoveel mogelijke persoonlijke informatie weten o.a. Facebook en Google onze behoefte aan informatie zo persoonlijk mogelijk te beantwoorden. Dit principe kan ook op de open data van de overheid worden toegepast. Hierdoor wordt alle open data binnen de overheid niet alleen een bron waar een verzoek op kan worden gedaan, maar ontstaat er een situatie waarin de overheid de data als service aanbiedt.</p>
-            <p>Mijn excuses voor mogelijke typos of andere onduidelijkheden.  Bij vragen of opmerkingen neem gerust contact met mij op:</p>
+            <p>Bij vragen of opmerkingen neem gerust contact met mij op:</p>
             <p>
               <a href="mailto:stanguldemond@gmail.com">stanguldemond@gmail.com</a>
             </p>
